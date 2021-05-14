@@ -5,6 +5,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: black;
+}
+.title {
+  color: white;
+  padding-bottom: 70px;
 }
 
 .main {
